@@ -73,6 +73,14 @@ export default {
           brown: "#795548",
           gray: "#8BC34A",
         },
+        warm: {
+          pink: "#FF6B6B",
+          teal: "#4ECDC4",
+          blue: "#45B7D1",
+          orange: "#FFA726",
+          purple: "#AB47BC",
+          yellow: "#FFEB3B",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
